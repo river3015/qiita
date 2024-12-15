@@ -24,7 +24,6 @@ ignorePublish: false
 
 ## 画像のアップロード
 
-
 ![スクリーンショット 2024-12-15 11.21.51.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3862159/fe131e3a-2cb2-1022-d873-adc039969535.png)
 
 画像アドレスをコピーし、エディタに貼ると画像をつけられます。
