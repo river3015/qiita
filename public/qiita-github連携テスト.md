@@ -1,10 +1,10 @@
 ---
 title: Qiita CLI GitHub連携 投稿テスト
 tags:
-  - '初心者'
+  - 初心者
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-12-15T12:19:30+09:00'
+id: a31f021ab30cdd39afc1
 organization_url_name: null
 slide: false
 ignorePublish: false
