@@ -5,8 +5,8 @@ tags:
   - CTF
   - seccon
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-10-04T17:08:59+09:00'
+id: b1eb745ecc5169bcd349
 organization_url_name: null
 slide: false
 ignorePublish: false
