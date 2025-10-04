@@ -3,8 +3,8 @@ title: コマンド一つでQiita記事執筆に取り掛かれるようにす�
 tags:
   - GitHub
   - 初心者
-private: true
-updated_at: '2024-12-15T16:43:35+09:00'
+private: false
+updated_at: '2024-12-24T07:06:13+09:00'
 id: 3513fdcb80375d3272c6
 organization_url_name: null
 slide: false
