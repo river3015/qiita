@@ -1,7 +1,9 @@
 ---
 title: CTF 「Find the key!」 Writeup
 tags:
-  - ''
+  - Security
+  - CTF
+  - seccon
 private: false
 updated_at: ''
 id: null
